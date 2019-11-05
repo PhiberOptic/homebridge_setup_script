@@ -14,10 +14,10 @@
 Теперь даже при перезагрузке homebridge с кривым конфигом, Вы сможете восстановить его работоспособность используя веб-интерфейс.
 
 Чтобы установить выполняем в терминале следуюшие команды:
-* sudo apt install git
-* git clone https://github.com/exdee85/homebridge_setup_script
-* cd homebridge_setup_script
-* bash install.sh
+* `sudo apt install git`
+* `git clone https://github.com/exdee85/homebridge_setup_script`
+* `cd homebridge_setup_script`
+* `bash install.sh`
 
 Процесс установки займет минут 10, в итоге Вы получите работоспособный homebridge и его веб-морду на порту `8080`.
 
