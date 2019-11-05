@@ -21,5 +21,6 @@
 
 Процесс установки займет минут 10, в итоге Вы получите работоспособный homebridge и его веб-морду на порту `8080`.
 
-Login: admin
-Password: admin
+Login: `admin`
+
+Password: `admin`
