@@ -15,11 +15,11 @@
 
 Чтобы установить выполняем в терминале следуюшие команды:
 * `sudo apt install git`
-* `git clone https://github.com/exdee85/homebridge_setup_script`
+* `git clone https://github.com/PhiberOptic/homebridge_setup_script`
 * `cd homebridge_setup_script`
 * `bash install.sh`
 
-Процесс установки займет минут 10, в итоге Вы получите работоспособный homebridge и его веб-морду на порту `8080`.
+Процесс установки займет минут 10, в итоге Вы получите работоспособный homebridge и его веб-морду на порту `8081`, поскольку порт 8080 по умолчанию используется для вебинтерфейса Phoscon(deConz)
 
 Login: `admin`
 
